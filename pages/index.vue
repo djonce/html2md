@@ -9,7 +9,7 @@
           <h1 class="h1">html 转 md</h1>
           <h3 class="h3">支持 csdn、掘金、简书、segmentfault、cnblogs、oschina、微信文章</h3>
         </div>
-        <a href="https://github.com/helloworld-Co/html2md" target="_blank">
+        <a href="https://github.com/djonce/html2md" target="_blank">
           <img width="40" src="/img/github.svg">
         </a>
       </div>
